@@ -1,0 +1,28 @@
+name: Enrico
+favicon: null
+layout_spectrum: 0.4386722061317414
+typography_spectrum: 0.04675006470642984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8008909039199352
+  lightness: 0.024597435258328915
+  saturation: 0.7072859860491008
+  rhythmicContrast: 0.18206188129261136
+purpose: []
